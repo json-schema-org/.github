@@ -103,6 +103,12 @@ All complaints will be reviewed and investigated promptly and fairly.
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
 
+In addition, JSON Schema is in the process of joining the OpenJS Foundation.
+The OpenJS Foundation provides an escalation path should you feel your report
+has not been handled appropriatly.
+
+> The OpenJS Foundation maintains a Code of Conduct Panel (CoCP). This is a foundation-wide team established to manage escalation when a reporter believes that a report to a member project or the CPC has not been properly handled. In order to escalate to the CoCP send an email to coc-escalation@lists.openjsf.org. - https://github.com/openjs-foundation/cross-project-council/blob/main/CODE_OF_CONDUCT.md#escalation
+
 ## Enforcement Guidelines
 
 Community leaders will follow these Community Impact Guidelines in determining
