@@ -180,3 +180,6 @@ at [https://www.contributor-covenant.org/translations][translations].
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
 
+# Deviations
+
+To see the deviations from the Contributor Covenant Code of Conduct version 2.1, please check the git history for this file, or manually create a diff.
