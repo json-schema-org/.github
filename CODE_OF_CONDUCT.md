@@ -11,7 +11,7 @@ Please see the [RFC document](https://www.rfc-editor.org/rfc/rfc7154.html) for f
 While we do not currently formally interact with the IETF beyond publication of specification documents,
 we have found their approach to developing specifications well informed and useful.
 
-This document provides a set of guidelines for personal interaction
+[BCP 54] provides a set of guidelines for personal interaction
 in the Internet Engineering Task Force.  The guidelines recognize the
 diversity of IETF participants, emphasize the value of mutual
 respect, and stress the broad applicability of our work.
