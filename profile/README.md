@@ -1,4 +1,4 @@
-<h1 align="center">JSON Schema is a declarative language that allows you to annotate and validate JSON documents.</h1>
+<h2 align="center">JSON Schema is a declarative language that allows you to annotate and validate JSON documents</h2>
 
 [![Slack](https://img.shields.io/static/v1?label=Slack&message=@json-schema&color=yellow)](https://asyncapi.slack.com)
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=@jsonschema&color=9cf)](https://twitter.com/jsonschema)
@@ -8,7 +8,7 @@
 
 ### 👋 Welcome
 
-Welcome JSON Schema, a vocabulary that allows you to validate, annotate, and manipulate JSON documents.
+Welcome to JSON Schema, a vocabulary that allows you to validate, annotate, and manipulate JSON documents.
 
 JSON Schema is part of [the OpenJS Foundation](https://openjsf.org/blog/2022/01/31/json-schema-joins-openjs-foundation/).
 
