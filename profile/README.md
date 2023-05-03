@@ -1,4 +1,4 @@
-<h1 align="center">JSON Schema is a declarative language that allows you to annotate and validate JSON documents.</h1><br>
+<h1 align="center">JSON Schema is a declarative language that allows you to annotate and validate JSON documents.</h1>
 
 [![Slack](https://img.shields.io/static/v1?label=Slack&message=@json-schema&color=yellow)](https://asyncapi.slack.com)
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=@jsonschema&color=9cf)](https://twitter.com/jsonschema)
