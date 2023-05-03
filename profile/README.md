@@ -1,5 +1,5 @@
 <p align="center">
-**JSON Schema** is a declarative domain specific language that allows you to **annotate** and **validate** JSON documents.<br><br>
+  <b>JSON Schema</b> is a declarative domain specific language that allows you to **annotate** and **validate** JSON documents.<br><br>
 JSON Schema enables the confident and reliable use of the JSON data format.
 </p>
 <div style="text-align: center;">
