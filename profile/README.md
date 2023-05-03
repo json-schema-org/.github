@@ -20,6 +20,5 @@ To get involved with our Community, please make sure you are familiar with the p
 - **JSON Schema [YouTube Channel](https://www.youtube.com/watch?v=48S8-GwRh-g&list=PLHVhS4Tj1YZPYt6sMkvf4nW8zKvZExVA4)**: To find the recordings of our public community meetings,JSON Schema learning resources and case studies.
 
 ### 👩🏽‍💻 Contributing to JSON Schema
-<sub> JSON Schema is always looking for new contributions. From documentation, translation, contributing to our infrastructure or reporting a bug; Any contribution is valued and welcome. Are you interested in contributing to Node.js? Give a read to our [Governance Model](https://github.com/nodejs/node/blob/main/GOVERNANCE.md) and the numerous ways you can [Get Involved](https://nodejs.org/en/get-involved) with Node.js!</sub>
 
-<sub> JSON Schema is always looking for new contributions. From documentation, tooling, website, or specification development; Any contribution is valued and welcome. Are you interested in contributing? please, Please read our [guidelines for contributing](CONTRIBUTING.md).</sub>
+JSON Schema is always looking for new contributions. From documentation, tooling, website, or specification development; Any contribution is valued and welcome. Are you interested in contributing? please, Please read our [guidelines for contributing](CONTRIBUTING.md).
