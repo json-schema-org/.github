@@ -1,6 +1,6 @@
 
-# JSON Schema is a declarative domain specific language that allows you to **annotate** and **validate** JSON documents.<br><br>
-# JSON Schema enables the confident and reliable use of the JSON data format.
+## JSON Schema is a declarative domain specific language that allows you to **annotate** and **validate** JSON documents.
+## JSON Schema enables the confident and reliable use of the JSON data format.
 
 <div style="text-align: center;">
 [![Slack](https://img.shields.io/static/v1?label=Slack&message=@json-schema&color=yellow.svg)](https://asyncapi.slack.com)
