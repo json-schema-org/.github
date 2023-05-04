@@ -8,7 +8,7 @@
 
 ### 👋 Welcome
 
-Welcome JSON Schema, a vocabulary that allows you to validate, annotate, and manipulate JSON documents.
+Welcome JSON Schema, a declarative language that allows you to annotate and validate JSON documents.
 
 JSON Schema is part of [the OpenJS Foundation](https://openjsf.org/blog/2022/01/31/json-schema-joins-openjs-foundation/).
 
