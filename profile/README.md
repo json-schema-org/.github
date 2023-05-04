@@ -11,7 +11,7 @@ Welcome to JSON Schema, a declarative language that allows you to annotate and v
 
 JSON Schema is part of [the OpenJS Foundation](https://openjsf.org/blog/2022/01/31/json-schema-joins-openjs-foundation/).
 
-### 🌎 Join JSON Schema Community
+### 🌎 Join the JSON Schema Community
 To get involved with our Community, please make sure you are familiar with the project's [Code of Conduct](https://github.com/json-schema-org/.github/blob/main/CODE_OF_CONDUCT.md).
 
 - **Join our [Slack workspace](https://json-schema.org/slack)**: The best place to ask questions, learn, get help, or discuss all things JSON Schema.
