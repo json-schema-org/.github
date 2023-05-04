@@ -7,7 +7,7 @@
 [![Google Groups](https://img.shields.io/static/v1?label=Google&nbsp;Groups&message=@json-schema&color==blueviolet)](https://groups.google.com/g/json-schema)
 
 ### 👋 Welcome
-Welcome JSON Schema, a declarative language that allows you to annotate and validate JSON documents.
+Welcome to JSON Schema, a declarative language that allows you to annotate and validate JSON documents.
 
 JSON Schema is part of [the OpenJS Foundation](https://openjsf.org/blog/2022/01/31/json-schema-joins-openjs-foundation/).
 
