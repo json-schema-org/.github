@@ -17,7 +17,7 @@ To get involved with our Community, please make sure you are familiar with the p
 
 - **Join our [Slack workspace](https://json-schema.org/slack)**: The best place to ask questions, learn, get help, or discuss all things JSON Schema.
 - **Join our public meetings**: We hold monthly [Office Hours](https://github.com/orgs/json-schema-org/discussions/34) and weekly [Open Community Working Meetings](https://github.com/orgs/json-schema-org/discussions/35). Please join!
-- **JSON Schema [YouTube Channel](https://www.youtube.com/watch?v=48S8-GwRh-g&list=PLHVhS4Tj1YZPYt6sMkvf4nW8zKvZExVA4)**: To find the recordings of our public community meetings and JSON Schema learning resources.
+- **Follow our [YouTube Channel](https://www.youtube.com/watch?v=48S8-GwRh-g&list=PLHVhS4Tj1YZPYt6sMkvf4nW8zKvZExVA4)**: To find the recordings of our public community meetings and JSON Schema learning resources.
 
 ### 👩🏽‍💻 Contributing to JSON Schema
 
