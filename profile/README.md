@@ -20,4 +20,4 @@ To get involved with our Community, please make sure you are familiar with the p
 
 ### 👩🏽‍💻 Contributing to JSON Schema
 
-JSON Schema is always looking for new contributions. From documentation, tooling, website, or specification development; Any contribution is valued and welcome. Are you interested in contributing? Please read our [guidelines for contributing](CONTRIBUTING.md).
+JSON Schema is always looking for new contributions. From documentation, tooling, website, or specification development; Any contribution is valued and welcome. Are you interested in contributing? Please read our [guidelines for contributing](https://github.com/json-schema-org/json-schema-spec/blob/main/CONTRIBUTING.md).
