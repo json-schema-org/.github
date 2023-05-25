@@ -19,4 +19,21 @@ To get involved with our Community, please make sure you are familiar with the p
 
 ### 👩🏽‍💻 Contributing to JSON Schema
 
-JSON Schema is always looking for new contributions. From documentation, tooling, website, or specification development; Any contribution is valued and welcome. Are you interested in contributing? Please read our [guidelines for contributing](https://github.com/json-schema-org/json-schema-spec/blob/main/CONTRIBUTING.md).
+JSON Schema is a community that lives on its contributors. As we grow, we need more people to help others. You can contribute in many ways, either in the specification development or in the wider ecosystem.
+
+Find below some examples of contributions:
+ * Specification development
+ * Tooling development
+ * Blogs posts
+ * Pull requests review
+ * Answer questions
+ * Documentation
+ * Maintenance
+ * Community
+
+
+To figure out a good first issue to work on, join our Slack workspace and visit the #contribute channel. This channel is specifically designed for onboarding and supporting new contributors. 
+
+You should also check out our [Contribution guidelines](https://github.com/json-schema-org/community/blob/main/CONTRIBUTING.md)
+
+We’re looking forward to working with you. Welcome aboard!
