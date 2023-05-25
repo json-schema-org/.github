@@ -6,9 +6,12 @@
 [![YouTube](https://img.shields.io/static/v1?label=Youtube&message=@JSONSchemaOrgOfficial&color=red)](https://www.youtube.com/@JSONSchemaOrgOfficial)
 
 ## 👋 Welcome
-Welcome to JSON Schema, a declarative language that allows you to annotate and validate JSON documents.
+Welcome to [JSON Schema](https://json-schema.org), a declarative language that allows you to annotate and validate JSON documents.
 
 JSON Schema is part of [the OpenJS Foundation](https://openjsf.org/blog/2022/01/31/json-schema-joins-openjs-foundation/).
+
+## 📑 Getting started
+Are you wondering how to get started with JSON Schema? Please, visit our getting started guide in our [documentation](https://json-schema.org/learn/getting-started-step-by-step). Are you looking for JSON Schema tooling? Please, explore JSON Schema's tooling ecosystem on our [implementations page](https://json-schema.org/implementations).
 
 ## 🌎 Join the JSON Schema Community
 To get involved with our Community, please make sure you are familiar with the project's [Code of Conduct](https://github.com/json-schema-org/.github/blob/main/CODE_OF_CONDUCT.md).
