@@ -38,6 +38,6 @@ Find below some examples of contributions:
 
 To figure out a good first issue to work on, join our Slack workspace and visit the #contribute channel. This channel is specifically designed for onboarding and supporting new contributors. 
 
-You should also check out our [Contribution guidelines](https://github.com/json-schema-org/community/blob/main/CONTRIBUTING.md)
+You should also check out our [Contribution guidelines](https://github.com/json-schema-org/community/blob/main/CONTRIBUTING.md).
 
 We’re looking forward to working with you. Welcome aboard!
