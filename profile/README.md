@@ -20,7 +20,9 @@ To get involved with our Community, please make sure you are familiar with the p
 - **Join our public meetings**: We hold monthly [Office Hours](https://github.com/orgs/json-schema-org/discussions/34) and weekly [Open Community Working Meetings](https://github.com/orgs/json-schema-org/discussions/35). Please join!
 - **Follow our [YouTube Channel](https://www.youtube.com/watch?v=48S8-GwRh-g&list=PLHVhS4Tj1YZPYt6sMkvf4nW8zKvZExVA4)**: To find the recordings of our public community meetings and JSON Schema learning resources.
 
-## 👩🏽‍💻 Contributing to JSON Schema
+## 🌱 Contributing to JSON Schema
+
+🙏 First of all, thanks for getting involved!
 
 JSON Schema is a community that lives on its contributors. As we grow, we need more people to help others. You can contribute in many ways, either in the specification development or in the wider ecosystem.
 
@@ -40,4 +42,4 @@ To figure out a good first issue to work on, join our Slack workspace and visit 
 
 You should also check out our [Contribution guidelines](https://github.com/json-schema-org/community/blob/main/CONTRIBUTING.md).
 
-We’re looking forward to working with you. Welcome aboard!
+We’re looking forward to working with you. Welcome aboard! 🚀 🫶
