@@ -26,7 +26,7 @@ To get involved with our Community, please make sure you are familiar with the p
 
 JSON Schema is a community that lives on its contributors. As we grow, we need more people to help others. You can contribute in many ways, either in the specification development or in the wider ecosystem.
 
-Find below some examples of contributions:
+Here are some areas where you can contribute:
  * Specification development
  * Tooling development
  * Blogs posts
