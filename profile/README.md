@@ -38,7 +38,7 @@ Here are some areas where you can contribute:
  * Community
 
 
-To figure out a good first issue to work on, join our Slack workspace and visit the #contribute channel. This channel is specifically designed for onboarding and supporting new contributors. 
+To figure out a good first issue to work on, join our Slack workspace and visit the [`#contribute`](https://json-schema.slack.com/archives/C0592558CBH) channel. This channel is specifically designed for onboarding and supporting new contributors. 
 
 You should also check out our [Contribution guidelines](https://github.com/json-schema-org/community/blob/main/CONTRIBUTING.md).
 
