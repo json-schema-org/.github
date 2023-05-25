@@ -25,6 +25,7 @@ Find below some examples of contributions:
  * Specification development
  * Tooling development
  * Blogs posts
+ * Design
  * Pull requests review
  * Answer questions
  * Documentation
