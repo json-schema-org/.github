@@ -31,6 +31,7 @@ Here are some areas where you can contribute:
  * Specification development
  * Tooling development
  * Blogs posts
+ * Case Studies
  * Design
  * Pull requests review
  * Answer questions
