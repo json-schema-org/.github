@@ -19,13 +19,16 @@ and an escalation process.
 
 # IETF Guidelines for Conduct
 
-Note: These guidelines are not provided in full in this document.
-Some extracts are provided.
-Please see the [RFC document](https://www.rfc-editor.org/rfc/rfc7154.html) for full details.
-While we do not currently formally interact with the IETF beyond publication of specification documents,
-we have found their approach to developing specifications well informed and useful.
+While the JSON Schema project is not formally part of the IETF, historically the project
+was initially published and updated as "personal drafts" through the IETF process.
+The project members have found the approach and assumptions defined as Guidelines
+for Conduct to be well informed and a good foundation of behaviour and expectations.
 
-[BCP 54] provides a set of guidelines for personal interaction
+The IETF defined BCP 54 (Best Current Practice), also assinged RFC 7154.
+Some extracts are provided which are found to be key principles.
+Please see [BCP 54/RFC 7154 document](https://www.rfc-editor.org/rfc/rfc7154.html) for full details.
+
+BCP 54 provides a set of guidelines for personal interaction
 in the Internet Engineering Task Force.  The guidelines recognize the
 diversity of IETF participants, emphasize the value of mutual
 respect, and stress the broad applicability of our work.
