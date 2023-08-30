@@ -1,17 +1,34 @@
 # JSON Schema Organizational Code of Conduct
 
 Our (The JSON Schema Organization) Code of Conduct is a combination of
-the "Contributor Covenant Code of Conduct" 2.1 and the IETF BCP 54 "IETF Guidelines for Conduct" (RFC7154).
+- The IETF BCP 54 "IETF Guidelines for Conduct" (RFC7154)
+- The "Contributor Covenant Code of Conduct" 2.1
+- The OpenJS Foundation Code of Conduct
+
+## Applicable sections
+
+We take the whole of the Contributor Covenant Code of Conduct 2.1 as is.
+
+We reference the IETF BCP 54 "IETF Guidelines for Conduct" (RFC7154) as a guideline.
+We do not subscribe to its defined Reporting Transgressions of the Guidelines (Appendix A),
+as JSON Schema is not part of any IETF working group.
+
+We subscribe to the OpenJS Foundation Code of Conduct in full. The OpenJS Foundation Code of Conduct
+consists of the Contributor Covenant Code of Conduct, commitments relating to reports,
+and an escalation process.
 
 # IETF Guidelines for Conduct
 
-Note: These guidelines are not provided in full in this document.
-Some extracts are provided.
-Please see the [RFC document](https://www.rfc-editor.org/rfc/rfc7154.html) for full details.
-While we do not currently formally interact with the IETF beyond publication of specification documents,
-we have found their approach to developing specifications well informed and useful.
+While the JSON Schema project is not formally part of the IETF, historically the project
+was initially published and updated as "personal drafts" through the IETF process.
+The project members have found the approach and assumptions defined as Guidelines
+for Conduct to be well informed and a good foundation of behaviour and expectations.
 
-[BCP 54] provides a set of guidelines for personal interaction
+The IETF defined BCP 54 (Best Current Practice), also assinged RFC 7154.
+Some extracts are provided which are found to be key principles.
+Please see [BCP 54/RFC 7154 document](https://www.rfc-editor.org/rfc/rfc7154.html) for full details.
+
+BCP 54 provides a set of guidelines for personal interaction
 in the Internet Engineering Task Force.  The guidelines recognize the
 diversity of IETF participants, emphasize the value of mutual
 respect, and stress the broad applicability of our work.
@@ -103,18 +120,6 @@ All complaints will be reviewed and investigated promptly and fairly.
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
 
-In addition, JSON Schema is in the process of joining the OpenJS Foundation.
-The OpenJS Foundation provides an escalation path should you feel your report
-has not been handled appropriatly.
-
-> The OpenJS Foundation maintains a Code of Conduct Panel (CoCP). This is a foundation-wide team established to manage escalation when a reporter believes that a report to a member project or the CPC has not been properly handled. In order to escalate to the CoCP send an email to coc-escalation@lists.openjsf.org. - https://github.com/openjs-foundation/cross-project-council/blob/main/CODE_OF_CONDUCT.md#escalation
-
-## Privacy Expectations
-
-As per Code of Conduct requirements set out by the OpenJS Foundation, we will maintain the confidentiality with regard to the reporter of an incident.
-For the purposes of tracking between Code of Conduct review members, incidents may be tracked in a private organizational GitHub Repository.
-In addition to any Code of Conduct review team, GitHub organizational owners will have access to view details of reports by way of having full GitHub organizational admin access.
-
 ## Enforcement Guidelines
 
 Community leaders will follow these Community Impact Guidelines in determining
@@ -180,6 +185,19 @@ at [https://www.contributor-covenant.org/translations][translations].
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
 
-# Deviations
+# The OpenJS Foundation Code of Conduct
 
-To see the deviations from the Contributor Covenant Code of Conduct version 2.1, please check the git history for this file, or manually create a diff.
+The OpenJS Foundation Code of Conduct is mostly formed from the Contributor Covenant Code of Conduct.
+Significantly, we copy here the defined issue escalation process.
+
+## Privacy Expectations
+
+As per Code of Conduct requirements set out by the OpenJS Foundation, recipients of reports will maintain the confidentiality with regard to the reporter of an incident.
+For the purposes of tracking between Code of Conduct review members, incidents may be tracked in a private organizational GitHub Repository.
+In addition to any Code of Conduct review team, GitHub organizational owners will have access to view details of reports by way of having full GitHub organizational admin access.
+
+## Escalate an issue
+
+The OpenJS Foundation provides an [escalation path](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CODE_OF_CONDUCT.md#escalate-an-issue) should you feel your report has not been handled appropriatly. Recipients of reports commit to participate in the defined path of escalation when required, as required by the OpenJS Foundation Code of Conduct.
+
+> The OpenJS Foundation maintains a [Code of Conduct Panel (CoCP)](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/conduct/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md#code-of-conduct-panel). This is a foundation-wide team established to manage escalation when a reporter believes that a report to a member project or the CPC has not been properly handled. In order to escalate to the CoCP send an email to coc-escalation@lists.openjsf.org.
