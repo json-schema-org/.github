@@ -1,54 +1,35 @@
 # JSON Schema Organizational Code of Conduct
 
-Our (The JSON Schema Organization) Code of Conduct is a combination of
-- The IETF BCP 54 "IETF Guidelines for Conduct" (RFC7154)
-- The "Contributor Covenant Code of Conduct" 2.1
-- The OpenJS Foundation Code of Conduct
+Our (The JSON Schema Organization) Code of Conduct is a combination of:
+- [The IETF BCP 54 "IETF Guidelines for Conduct" (RFC7154)](#ietf-guidelines-for-conduct)
+- [The "Contributor Covenant Code of Conduct" 2.1](#contributor-covenant-code-of-conduct)
+- [The OpenJS Foundation Code of Conduct](#the-openjs-foundation-code-of-conduct)
 
 ## Applicable sections
 
 We take the whole of the Contributor Covenant Code of Conduct 2.1 as is.
 
-We reference the IETF BCP 54 "IETF Guidelines for Conduct" (RFC7154) as a guideline.
-We do not subscribe to its defined Reporting Transgressions of the Guidelines (Appendix A),
-as JSON Schema is not part of any IETF working group.
+We reference the IETF BCP 54 "IETF Guidelines for Conduct" (RFC7154) as a guideline. We do not subscribe to its defined Reporting Transgressions of the Guidelines (Appendix A), as JSON Schema is not part of any IETF working group.
 
-We subscribe to the OpenJS Foundation Code of Conduct in full. The OpenJS Foundation Code of Conduct
-consists of the Contributor Covenant Code of Conduct, commitments relating to reports,
-and an escalation process.
+We subscribe to [the OpenJS Foundation Code of Conduct](https://github.com/openjs-foundation/cross-project-council/blob/main/CODE_OF_CONDUCT.md) in full. The OpenJS Foundation Code of Conduct consists of the Contributor Covenant Code of Conduct, commitments relating to reports, and an escalation process.
 
 # IETF Guidelines for Conduct
 
-While the JSON Schema project is not formally part of the IETF, historically the project
-was initially published and updated as "personal drafts" through the IETF process.
-The project members have found the approach and assumptions defined as Guidelines
-for Conduct to be well informed and a good foundation of behaviour and expectations.
+While the JSON Schema project is not formally part of the IETF, historically the project was initially published and updated as "personal drafts" through the IETF process. The project members have found the approach and assumptions defined as Guidelines for Conduct to be well informed and a good foundation of behaviour and expectations.
 
 The IETF defined BCP 54 (Best Current Practice), also assinged RFC 7154.
 Some extracts are provided which are found to be key principles.
 Please see [BCP 54/RFC 7154 document](https://www.rfc-editor.org/rfc/rfc7154.html) for full details.
 
-BCP 54 provides a set of guidelines for personal interaction
-in the Internet Engineering Task Force.  The guidelines recognize the
-diversity of IETF participants, emphasize the value of mutual
-respect, and stress the broad applicability of our work.
+BCP 54 provides a set of guidelines for personal interaction in the Internet Engineering Task Force.  The guidelines recognize the diversity of IETF participants, emphasize the value of mutual respect, and stress the broad applicability of our work.
 
-The work of the IETF relies on cooperation among a diverse range of
-people with different ideas and communication styles.  The IETF
-strives, through these guidelines for conduct, to create and maintain
-an environment in which every person is treated with dignity,
-decency, and respect.
+The work of the IETF relies on cooperation among a diverse range of people with different ideas and communication styles.  The IETF strives, through these guidelines for conduct, to create and maintain an environment in which every person is treated with dignity, decency, and respect.
 
-We dispute ideas by using reasoned argument rather than through
-intimidation or personal attack.
+We dispute ideas by using reasoned argument rather than through intimidation or personal attack.
 
-The IETF puts its emphasis on technical
-competence, rough consensus, and individual participation, and it
-needs to be open to competent input from any source.
+The IETF puts its emphasis on technical competence, rough consensus, and individual participation, and it needs to be open to competent input from any source.
 
-IETF participants use their best engineering judgment to find the
-best solution for the whole Internet, not just the best solution
-for any particular network, technology, vendor, or user.
+IETF participants use their best engineering judgment to find the best solution for the whole Internet, not just the best solution for any particular network, technology, vendor, or user.
 
 Some thoughts on "consensus": https://datatracker.ietf.org/doc/html/rfc7282
 
@@ -114,7 +95,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-report@jsonschema.dev.
+[report@jsonschema.dev](mailto:report@jsonschema.dev).
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
@@ -166,24 +147,8 @@ individual, or aggression toward or disparagement of classes of individuals.
 **Consequence**: A permanent ban from any sort of public interaction within
 the community.
 
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.1, available at
-[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
-
-Community Impact Guidelines were inspired by
-[Mozilla's code of conduct enforcement ladder][Mozilla CoC].
-
-For answers to common questions about this code of conduct, see the FAQ at
-[https://www.contributor-covenant.org/faq][FAQ]. Translations are available
-at [https://www.contributor-covenant.org/translations][translations].
-
-[homepage]: https://www.contributor-covenant.org
-[v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
-[Mozilla CoC]: https://github.com/mozilla/diversity
-[FAQ]: https://www.contributor-covenant.org/faq
-[translations]: https://www.contributor-covenant.org/translations
+## Conflicts of Interest
+In the event of any conflict of interest, a community leader must immediately notify the other leaders, and recuse themselves if necessary.
 
 # The OpenJS Foundation Code of Conduct
 
@@ -196,8 +161,34 @@ As per Code of Conduct requirements set out by the OpenJS Foundation, recipients
 For the purposes of tracking between Code of Conduct review members, incidents may be tracked in a private organizational GitHub Repository.
 In addition to any Code of Conduct review team, GitHub organizational owners will have access to view details of reports by way of having full GitHub organizational admin access.
 
-## Escalate an issue
+## Escalation
 
 The OpenJS Foundation provides an [escalation path](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/CODE_OF_CONDUCT.md#escalate-an-issue) should you feel your report has not been handled appropriatly. Recipients of reports commit to participate in the defined path of escalation when required, as required by the OpenJS Foundation Code of Conduct.
 
 > The OpenJS Foundation maintains a [Code of Conduct Panel (CoCP)](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/conduct/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md#code-of-conduct-panel). This is a foundation-wide team established to manage escalation when a reporter believes that a report to a member project or the CPC has not been properly handled. In order to escalate to the CoCP send an email to coc-escalation@lists.openjsf.org.
+
+## Enforcement responsabilities
+
+If a Code of Conduct report involves a community leader, that member will not participate in the investigation or any decisions related to that report. If the report involves multiple community leaders, mediation will defer to the [OpenJS Code of Conduct Panel (CoCP)](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/conduct/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md#code-of-conduct-panel).
+
+For more information, refer to the full
+[Code of Conduct governance document](https://github.com/openjs-foundation/cross-project-council/tree/HEAD/proposals/approved/CODE_OF_CONDUCT).
+
+# Attribution
+
+This Code of Conduct is adapted from the [Contributor Covenant][homepage],
+version 2.0, available at
+[https://www.contributor-covenant.org/version/2/0/code_of_conduct.html][v2.0].
+
+Community Impact Guidelines were inspired by
+[Mozilla's code of conduct enforcement ladder][Mozilla CoC].
+
+For answers to common questions about this code of conduct, see the FAQ at
+[https://www.contributor-covenant.org/faq][FAQ]. Translations are available at
+[https://www.contributor-covenant.org/translations][translations].
+
+[homepage]: https://www.contributor-covenant.org
+[v2.0]: https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
+[Mozilla CoC]: https://github.com/mozilla/diversity
+[FAQ]: https://www.contributor-covenant.org/faq
+[translations]: https://www.contributor-covenant.org/translations
