@@ -32,16 +32,17 @@ To get involved with our Community, please make sure you are familiar with the p
 JSON Schema is a community that lives on its contributors. As we grow, we need more people to help others. You can contribute in many ways, either in the specification development or in the wider ecosystem.
 
 Here are some areas where you can contribute:
- * Specification development
+ * [Specification development](https://github.com/json-schema-org/json-schema-spec)
  * Tooling development
- * Blogs posts
+ * [Blogs posts](https://github.com/json-schema-org/community/blob/main/docs/blog-guidelines.md)
  * Case Studies
- * Design
+ * [Design](https://github.com/json-schema-org/brand)
  * Pull requests review
  * Answer questions
  * Documentation
  * Maintenance
- * Community
+ * [Community](https://github.com/json-schema-org/community)
+ * [Adopters](https://github.com/json-schema-org/community/blob/main/ADOPTERS.md)
 
 
 To figure out a good first issue to work on, join our Slack workspace and visit the [`#contribute`](https://json-schema.slack.com/archives/C0592558CBH) channel. This channel is specifically designed for onboarding and supporting new contributors. 
