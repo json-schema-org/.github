@@ -8,8 +8,6 @@
 ## 👋 Welcome
 Welcome to [JSON Schema](https://json-schema.org), a declarative language that allows you to annotate and validate JSON documents.
 
-JSON Schema is part of [the OpenJS Foundation](https://openjsf.org/blog/2022/01/31/json-schema-joins-openjs-foundation/).
-
 ## 📑 Getting started
 Are you wondering how to get started with JSON Schema? Please, visit our getting started guide in our [documentation](https://json-schema.org/learn/getting-started-step-by-step). Are you looking for JSON Schema tooling? Please, explore JSON Schema's tooling ecosystem on our [implementations page](https://json-schema.org/implementations).
 
