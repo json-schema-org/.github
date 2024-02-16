@@ -68,7 +68,7 @@ The process is designed to be lightweight, and a template is provided for ease o
 
 ### Triage
 
-Please check the triage process published in the TRIAGE.md file of each repository to learn how we review and label incoming issues. 
+Please check out our [triage process](TRIAGE.md) to learn how we review and label incoming issues. 
 
 ### Feedback
 
