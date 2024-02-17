@@ -27,7 +27,7 @@ Here are some areas where you can contribute:
  * ✍️ [Publish a blog post](https://github.com/json-schema-org/website/blob/main/CONTRIBUTING.md#%EF%B8%8F-publish-a-blog-post)
  * 📈 [Publish a case study](https://github.com/json-schema-org/website/blob/main/CONTRIBUTING.md#-publish-a-case-study)
  * 📋 [Improving The Documentation](https://github.com/json-schema-org/website/blob/main/CONTRIBUTING.md#-improving-the-documentation)
- * 🏗 [Website development](https://github.com/json-schema-org/website/blob/main/CONTRIBUTING.md#-improving-the-website))
+ * 🏗 [Website development](https://github.com/json-schema-org/website/blob/main/CONTRIBUTING.md#-improving-the-website)
  * 🎨 [Improving The Design](https://github.com/json-schema-org/website/blob/main/CONTRIBUTING.md#-improving-the-design)
  * 😍 [Collaborating with Community Management tasks](https://github.com/json-schema-org/community)
  * 🚀 [Adding a new Adopter](https://github.com/json-schema-org/community/blob/main/ADOPTERS.md)
