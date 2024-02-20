@@ -40,6 +40,7 @@ Priority labels:
 Status labels:
 | Label                    | Description                                                               |
 | ------------------------ | ------------------------------------------------------------------------- |
+| `Status: Triage`      | This a new issue that requires Triage.|
 | `Status: Available`      | No one has claimed responsibility for resolving this issue. Generally this will be applied to bugs and enhancement issues, but may be applied to others.|
 | `Status: Accepted`       | It's clear what the subject of the issue is about, and what the resolution should be.|
 | `Status: Blocked`        | There is another issue that needs to be resolved first, or a specific person is required to comment or reply to progress. There may also be some external blocker.|
