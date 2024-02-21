@@ -73,6 +73,10 @@ At the end of reading an issue, you should do one of the following:
 
 6. If the request is infeasable, or complete,use `status: Completed` follow up directly in the issue with the information, and `close` the issue.
 
+### Feedback
+
+Feedback on this process can be made informally through our [Slack server](https://json-schema.org/slack) and formally using our [Community Discussions](https://github.com/json-schema-org/community/discussions).
+
 ### References
 
 This process has been inspired by some great processes defined by Open Source projects like:
