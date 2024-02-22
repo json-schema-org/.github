@@ -32,13 +32,15 @@ JSON Schema is a community that lives on its contributors. As we grow, we need m
 Here are some areas where you can contribute:
  * Specification development
  * Tooling development
+ * JSON Schema test suite development
+ * Bowtie development
  * Blogs posts
  * Case Studies
  * Design
  * Pull requests review
  * Answer questions
  * Documentation
- * Maintenance
+ * Website development
  * Community
  * Adopters
 
