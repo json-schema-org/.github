@@ -1,4 +1,4 @@
-# Guidelines for contributing to the JSON Schema project GitHub organisation
+# Guidelines for contributing to the JSON Schema project
 
 We invite you to join us working on JSON Schema.
 
@@ -20,6 +20,8 @@ Here are some areas where you can contribute:
  * 🌱 [Specification development](https://github.com/json-schema-org/json-schema-spec)
  * 🐞 Reporting Bugs
  * 💡 Issues and feature requests
+ * ✅ JSON Schema [Test Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite) development
+ * 🔗 [Bowtie](https://github.com/bowtie-json-schema/bowtie) development
  * 🧐 Reviewing PRs
  * ❓ Answer questions
  * 🙏 Join discussions and provide feedback
