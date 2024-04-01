@@ -49,7 +49,7 @@ Status labels:
 | `Status: On Hold`        | Similar to blocked, but is assigned to someone. May also be assigned to someone because of their experience, but it's recognised they are unable to process the issue at this time.|
 | `Status: Review Needed`  | The issue has a PR attached to it which needs to be reviewed. Should receive review by others in the community, and at least one member / comitter. Specifics on when merging PRs is allowed is still up for debate.|
 | `Status: Revision Needed`| At least two people have seen issues in the PR that makes them uneasy. Submitter of PR needs to revise the PR related to the issue.|
-| `Status: Abandoned`      | It's believed that this issue is no longer important to the requestor and no one else has shown an interest in it.|
+| `Status: Stale`          | It's believed that this issue is no longer important to the requestor and no one else has shown an interest in it.|
 
 Other labels:
 | Label                    | Description                                                               |
