@@ -56,22 +56,16 @@ Thanks to our wonderful Sponsors and Backers!
 Interested in becoming a Sponsor? Check [this](https://opencollective.com/json-schema)!
 
 ### Golden Sponsors
-
 [![Golden Sponsors](https://opencollective.com/json-schema/tiers/golden-sponsor.svg)](https://opencollective.com/json-schema/tiers/golden-sponsor.svg?avatarHeight=144)
 
 ### Silver Sponsors
-
 [![Silver Sponsors](https://opencollective.com/json-schema/tiers/silver-sponsor.svg)](https://opencollective.com/json-schema/tiers/silver-sponsor.svg?avatarHeight=108)
 
 ### Bronze Sponsors
-
 [![Bronze Sponsors](https://opencollective.com/json-schema/tiers/sponsor.svg)](https://opencollective.com/json-schema/tiers/sponsor.svg?avatarHeight=72)
 
 ### Community Sponsors
-
 [![Bronze Sponsors](https://opencollective.com/json-schema/tiers/community-sponsor.svg)](https://opencollective.com/json-schema/tiers/community-sponsor.svg?avatarHeight=36)
 
 ### Backers
-
-**Thank you to all our backers!**
 [![Backers](https://opencollective.com/json-schema/backers.svg)](https://opencollective.com/json-schema/backers.svg?avatarHeight=36)
