@@ -52,7 +52,8 @@ We’re looking forward to working with you. Welcome aboard! 🚀 🫶
 
 ## Sponsors
 
-Thanks to our wonderful Sponsors and Backers:
+Thanks to our wonderful Sponsors and Backers!
+Interested in becoming a Sponsor? Check [this](https://opencollective.com/json-schema)!
 
 ### Golden Sponsors
 
