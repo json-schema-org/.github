@@ -49,3 +49,28 @@ Please check out our [Contribution guidelines](https://github.com/json-schema-or
 To figure out a good first issue to work on, join our Slack workspace and visit the [`#contribute`](https://json-schema.slack.com/archives/C0592558CBH) channel. This channel is specifically designed for onboarding and supporting new contributors. 
 
 We’re looking forward to working with you. Welcome aboard! 🚀 🫶
+
+## Sponsors
+
+Thanks to our wonderful Sponsors and Backers:
+
+### Golden Sponsors
+
+[![Golden Sponsors](https://opencollective.com/json-schema/tiers/golden-sponsor.svg)](https://opencollective.com/json-schema/tiers/golden-sponsor.svg?avatarHeight=144)
+
+### Silver Sponsors
+
+[![Silver Sponsors](https://opencollective.com/json-schema/tiers/silver-sponsor.svg)](https://opencollective.com/json-schema/tiers/silver-sponsor.svg?avatarHeight=108)
+
+### Bronze Sponsors
+
+[![Bronze Sponsors](https://opencollective.com/json-schema/tiers/sponsor.svg)](https://opencollective.com/json-schema/tiers/sponsor.svg?avatarHeight=72)
+
+### Community Sponsors
+
+[![Bronze Sponsors](https://opencollective.com/json-schema/tiers/community-sponsor.svg)](https://opencollective.com/json-schema/tiers/community-sponsor.svg?avatarHeight=36)
+
+### Backers
+
+**Thank you to all our backers!**
+[![Backers](https://opencollective.com/json-schema/backers.svg)](https://opencollective.com/json-schema/backers.svg?avatarHeight=36)
