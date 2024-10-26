@@ -77,7 +77,8 @@ At the end of reading an issue, you should do one of the following:
 6. If the request is infeasable, or complete,use `status: Completed` follow up directly in the issue with the information, and `close` the issue.
 
 ## Triage Team
-There is a triage team created to help with the triage of the `website` repository. If you like to apply to that group please create an issue in the website repository to submit your application.
+
+The JSON Schema iriage team is a group dedicated towards improving workflow efficiency through thoughtful review and triage of open issues and pull requests. This helps contributors receive timely feedback and enables core developers to focus on reviewed items which reduces their workload.
 
 Current members:
 
@@ -86,6 +87,23 @@ Current members:
 |               |
 
 <!-- | [github usser] | -->
+
+** Responsibilities: **
+ * Classifying issues and PRs
+ * Applying appropriate labels to issues/PRs
+ * Notifying appropriate core developers
+ * Reviewing PRs
+ * Assisting contributors
+ * Provide positive feedback and be an example in the application of the Code of Conduct
+
+** Becoming a member of the JSON Schema triage team **
+
+All TSC Members are welcome to invite a contributor to the triage team. Triagers will be responsible to handle not just issues but also pull requests. A JSON Schema triager has access to the website repository.
+
+Any existing active contributor in the JSON Schema organization can transition into becoming a JSON Schema triager. They can request this to any TSC member or the Community Managers, either confidentially via a DM in Discourse, or publicly by opening an issue in the community repository. If the TSC decides you are ready to gain the extra privileges, they will invite you to the organisation, and then act as a mentor to you until you are ready to do things entirely on your own.
+
+For every new triager, it would be great to announce them in the ´announcement´ channel in Slack ([example announcement](https://discuss.python.org/t/abhilash-raj-has-been-granted-triage-role-on-github/2089)).
+
 
 ### Feedback
 
@@ -98,3 +116,4 @@ This process has been inspired by some great processes defined by Open Source pr
 - [Grafana triage process](https://github.com/grafana/faro-web-sdk/blob/main/ISSUE_TRIAGE.md).
 - [Wordpress triage process](https://github.com/wordpress-mobile/WordPress-iOS/blob/trunk/docs/issue-triage.md).
 - [Sensible Github Labels](https://github.com/Relequestual/sensible-github-labels).
+- [Python Triage Team](https://devguide.python.org/triage/triage-team/).
