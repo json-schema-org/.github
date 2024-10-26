@@ -2,6 +2,8 @@
 
 This document will outline the process of triaging GitHub issues. **Triage** is the process of reviewing and labeling incoming issues, identifying any which are critical, and escalating the critical ones.
 
+> :warning: **This process does not apply to the JSON Schema specification repository**
+
 The core maintainers of each project are responsible for categorizing all incoming issues and delegating any critical or important issue to other maintainers. Currently one maintainer each week is responsible. Besides that part, triage provides an important way to contribute to an open source project.
 
 Triage helps ensure issues resolve quickly by:
@@ -73,6 +75,17 @@ At the end of reading an issue, you should do one of the following:
 5. If it's not clear what the problem or issue is, add a note for the requestor (or occasionally some other user on the thread), and mark it as `info-required`. If a `info-required` issue persists for longer than 2 weeks or so (past a second followup), it's reasonable to `close` the issue using `Status: Stale` and encourage the requester to reopen if they have more details.
 
 6. If the request is infeasable, or complete,use `status: Completed` follow up directly in the issue with the information, and `close` the issue.
+
+## Triage Team
+There is a triage team created to help with the triage of the `website` repository. If you like to apply to that group please create an issue in the website repository to submit your application.
+
+Current members:
+
+|    Account    |
+| :-----------: |
+|               |
+
+<!-- | [github usser] | -->
 
 ### Feedback
 
