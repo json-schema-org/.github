@@ -80,7 +80,7 @@ At the end of reading an issue, you should do one of the following:
 
 The JSON Schema triage team is a group dedicated towards improving workflow efficiency through thoughtful review and triage of open issues and pull requests. This helps contributors receive timely feedback and enables core developers to focus on reviewed items which reduces their workload.
 
-Current members:
+### Current members
 
 |    Account    |
 | :-----------: |
@@ -88,7 +88,7 @@ Current members:
 
 <!-- | [github usser] | -->
 
-** Responsibilities: **
+### Responsibilities
  * Classifying issues and PRs
  * Applying appropriate labels to issues/PRs
  * Notifying appropriate core developers
@@ -96,7 +96,7 @@ Current members:
  * Assisting contributors
  * Provide positive feedback and be an example in the application of the Code of Conduct
 
-** Becoming a member of the JSON Schema triage team **
+### Becoming a member of the JSON Schema triage team
 
 All TSC Members are welcome to invite a contributor to the triage team. Triagers will be responsible to handle not just issues but also pull requests. A JSON Schema triager has access to the website repository.
 
@@ -104,12 +104,11 @@ Any existing active contributor in the JSON Schema organization can transition i
 
 For every new triager, it would be great to announce them in the ´announcement´ channel in Slack ([example announcement](https://discuss.python.org/t/abhilash-raj-has-been-granted-triage-role-on-github/2089)).
 
-
-### Feedback
+## Feedback
 
 Feedback on this process can be made informally through our [Slack server](https://json-schema.org/slack) and formally using our [Community Discussions](https://github.com/json-schema-org/community/discussions).
 
-### References
+## References
 
 This process has been inspired by some great processes defined by Open Source projects like:
 - [Knative triage process](https://github.com/knative/serving/blob/main/support/TRIAGE.md).
