@@ -100,7 +100,9 @@ The JSON Schema triage team is a group dedicated towards improving workflow effi
 
 All TSC Members are welcome to invite a contributor to the triage team. Triagers will be responsible to handle not just issues but also pull requests. A JSON Schema triager has access to the website repository.
 
-Any existing active contributor in the JSON Schema organization can transition into becoming a JSON Schema triager. They can request this to any TSC member or the Community Managers, either confidentially via a DM in Discourse, or publicly by opening an issue in the community repository. If the TSC decides you are ready to gain the extra privileges, they will invite you to the organisation, and then act as a mentor to you until you are ready to do things entirely on your own.
+Any existing active contributor in the JSON Schema organization can transition into becoming a JSON Schema triager. They can request this to any TSC member or the Community Managers, either confidentially via a DM in Discourse, or publicly by opening an issue in the community repository. If the TSC decides you are ready to gain the extra privileges, they will invite you to the organisation, and then act as a mentor to you until you are ready to do things entirely on your own. 
+
+Members of the Triage Team will get write access in the following repositories: website, conference, tour and landscape.
 
 For every new triager, it would be great to announce them in the ´announcement´ channel in Slack ([example announcement](https://discuss.python.org/t/abhilash-raj-has-been-granted-triage-role-on-github/2089)).
 
