@@ -78,7 +78,7 @@ At the end of reading an issue, you should do one of the following:
 
 ## Triage Team
 
-The JSON Schema iriage team is a group dedicated towards improving workflow efficiency through thoughtful review and triage of open issues and pull requests. This helps contributors receive timely feedback and enables core developers to focus on reviewed items which reduces their workload.
+The JSON Schema triage team is a group dedicated towards improving workflow efficiency through thoughtful review and triage of open issues and pull requests. This helps contributors receive timely feedback and enables core developers to focus on reviewed items which reduces their workload.
 
 Current members:
 
