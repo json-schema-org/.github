@@ -2,6 +2,8 @@
 
 This document will outline the process of triaging GitHub issues. **Triage** is the process of reviewing and labeling incoming issues, identifying any which are critical, and escalating the critical ones.
 
+> :warning: **This process does not apply to the JSON Schema specification repository**
+
 The core maintainers of each project are responsible for categorizing all incoming issues and delegating any critical or important issue to other maintainers. Currently one maintainer each week is responsible. Besides that part, triage provides an important way to contribute to an open source project.
 
 Triage helps ensure issues resolve quickly by:
@@ -74,14 +76,45 @@ At the end of reading an issue, you should do one of the following:
 
 6. If the request is infeasable, or complete,use `status: Completed` follow up directly in the issue with the information, and `close` the issue.
 
-### Feedback
+## Triage Team
+
+The JSON Schema triage team is a group dedicated towards improving workflow efficiency through thoughtful review and triage of open issues and pull requests. This helps contributors receive timely feedback and enables core developers to focus on reviewed items which reduces their workload.
+
+### Current members
+
+|    Account    |
+| :-----------: |
+|               |
+
+<!-- | [github usser] | -->
+
+### Responsibilities
+ * Classifying issues and PRs
+ * Applying appropriate labels to issues/PRs
+ * Notifying appropriate core developers
+ * Reviewing PRs
+ * Assisting contributors
+ * Provide positive feedback and be an example in the application of the Code of Conduct
+
+### Becoming a member of the JSON Schema triage team
+
+All TSC Members are welcome to invite a contributor to the triage team. Triagers will be responsible to handle not just issues but also pull requests. A JSON Schema triager has access to the website repository.
+
+Any existing active contributor in the JSON Schema organization can transition into becoming a JSON Schema triager. They can request this to any TSC member or the Community Managers, either confidentially via a DM in Discourse, or publicly by opening an issue in the community repository. If the TSC decides you are ready to gain the extra privileges, they will invite you to the organisation, and then act as a mentor to you until you are ready to do things entirely on your own. 
+
+Members of the Triage Team will get write access in the following repositories: website, conference, tour and landscape.
+
+For every new triager, it would be great to announce them in the ´announcement´ channel in Slack ([example announcement](https://discuss.python.org/t/abhilash-raj-has-been-granted-triage-role-on-github/2089)).
+
+## Feedback
 
 Feedback on this process can be made informally through our [Slack server](https://json-schema.org/slack) and formally using our [Community Discussions](https://github.com/json-schema-org/community/discussions).
 
-### References
+## References
 
 This process has been inspired by some great processes defined by Open Source projects like:
 - [Knative triage process](https://github.com/knative/serving/blob/main/support/TRIAGE.md).
 - [Grafana triage process](https://github.com/grafana/faro-web-sdk/blob/main/ISSUE_TRIAGE.md).
 - [Wordpress triage process](https://github.com/wordpress-mobile/WordPress-iOS/blob/trunk/docs/issue-triage.md).
 - [Sensible Github Labels](https://github.com/Relequestual/sensible-github-labels).
+- [Python Triage Team](https://devguide.python.org/triage/triage-team/).
