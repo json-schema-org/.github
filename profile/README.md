@@ -43,6 +43,7 @@ Here are some areas where you can contribute:
  * Website development
  * Community
  * Adopters
+ * Other projects you can contribute to: Conference, Landscape, Tour of JSON Schema and Ecosystem.
 
 Please check out our [Contribution guidelines](https://github.com/json-schema-org/.github/blob/main/CONTRIBUTING.md) to know more about how to contribute in each area.
 
