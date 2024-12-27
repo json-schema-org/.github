@@ -21,18 +21,27 @@ Here are some areas where you can contribute:
  * 🐞 Reporting Bugs
  * 💡 Issues and feature requests
  * ✅ JSON Schema [Test Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite) development
- * 🔗 [Bowtie](https://github.com/bowtie-json-schema/bowtie) development
  * 🧐 Reviewing PRs
  * ❓ Answer questions
  * 🙏 Join discussions and provide feedback
  * 🛠️ [Add new JSON Schema tooling](https://github.com/json-schema-org/website/blob/main/CONTRIBUTING.md#%EF%B8%8F-add-a-new-implementation)
+  * 🚀 [Adding a new Adopter](https://github.com/json-schema-org/community/blob/main/ADOPTERS.md)
  * ✍️ [Publish a blog post](https://github.com/json-schema-org/website/blob/main/CONTRIBUTING.md#%EF%B8%8F-publish-a-blog-post)
  * 📈 [Publish a case study](https://github.com/json-schema-org/website/blob/main/CONTRIBUTING.md#-publish-a-case-study)
  * 📋 [Improving The Documentation](https://github.com/json-schema-org/website/blob/main/CONTRIBUTING.md#-improving-the-documentation)
  * 🏗 [Website development](https://github.com/json-schema-org/website/blob/main/CONTRIBUTING.md#-improving-the-website)
  * 🎨 [Improving The Design](https://github.com/json-schema-org/website/blob/main/CONTRIBUTING.md#-improving-the-design)
  * 😍 [Collaborating with Community Management tasks](https://github.com/json-schema-org/community)
- * 🚀 [Adding a new Adopter](https://github.com/json-schema-org/community/blob/main/ADOPTERS.md)
+ * 🌈 Other JSON Schema projects you can contribute to:
+   * [JSON Schema Conference](https://github.com/json-schema-org/conference/blob/main/CONTRIBUTING.md).
+   * [Tour of JSON Schema](https://github.com/json-schema-org/tour/blob/main/CONTRIBUTING.md).
+   * [JSON Schema Landscape](https://github.com/json-schema-org/landscape/blob/main/CONTRIBUTING.md).
+   * [JSON Schema Ecosystem](https://github.com/json-schema-org/ecosystem).
+
+ * 🌐 Other JSON Schema Ecosystem Projects you can contribute to:
+   * [Bowtie](https://github.com/bowtie-json-schema/bowtie) development
+   * Contribute to any well mantained JSON Schema implementation.
+
 
 
 ## Key "Architectural" decisions
