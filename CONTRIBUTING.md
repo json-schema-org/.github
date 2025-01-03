@@ -36,10 +36,10 @@ Here are some areas where you can contribute:
    * [JSON Schema Conference](https://github.com/json-schema-org/conference/blob/main/CONTRIBUTING.md).
    * [Tour of JSON Schema](https://github.com/json-schema-org/tour/blob/main/CONTRIBUTING.md).
    * [JSON Schema Landscape](https://github.com/json-schema-org/landscape/blob/main/CONTRIBUTING.md).
-   * [JSON Schema Ecosystem](https://github.com/json-schema-org/ecosystem).
+   * [JSON Schema Ecosystem](https://github.com/json-schema-org/ecosystem/blob/main/CONTRIBUTING.md).
 
  * 🌐 Other JSON Schema Ecosystem Projects you can contribute to:
-   * [Bowtie](https://github.com/bowtie-json-schema/bowtie) development
+   * [Bowtie](https://github.com/bowtie-json-schema/bowtie) development.
    * Contribute to any well mantained JSON Schema implementation.
 
 
