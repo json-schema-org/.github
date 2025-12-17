@@ -49,7 +49,7 @@ Status labels:
 | `Status: Completed`      | Nothing further to be done with this issue. Awaiting to be closed by the requestor out of politeness, or can be closed by a project member.|
 | `Status: In Progress`    | This issue is being worked on, and has someone assigned.|
 | `Status: On Hold`        | Similar to blocked, but is assigned to someone. May also be assigned to someone because of their experience, but it's recognised they are unable to process the issue at this time.|
-| `Status: Review Needed`  | The issue has a PR attached to it which needs to be reviewed. Should receive review by others in the community, and at least one member / comitter. Specifics on when merging PRs is allowed is still up for debate.|
+| `Status: Review Needed`  | The issue has a PR attached to it which needs to be reviewed. Should receive review by others in the community, and at least one member / committer. Specifics on when merging PRs is allowed is still up for debate.|
 | `Status: Revision Needed`| At least two people have seen issues in the PR that makes them uneasy. Submitter of PR needs to revise the PR related to the issue.|
 | `Status: Stale`          | It's believed that this issue is no longer important to the requestor and no one else has shown an interest in it.|
 
@@ -64,9 +64,9 @@ Other labels:
 
 At the end of reading an issue, you should do one of the following:
 
-1. Make sure to search in previous issue to ensure this is not a duplicated issue. If that is the case, mark it as `duplicate` and close it referencing the original issue. If the issue is clear, ensure it has the correct `type` assigned and the status `status: Available`. Also consider if it is a `good first issue`.  
+1. Make sure to search in previous issues to ensure this is not a duplicated issue. If that is the case, mark it as `duplicate` and close it referencing the original issue. If the issue is clear, ensure it has the correct `type` assigned and the status `Status: Available`. Also consider if it is a `good first issue`.  
 
-2. Asses the issue priority to determine what functionality is affected and how broken it is and use the priority labels.
+2. Assess the issue priority to determine what functionality is affected and how broken it is and use the priority labels.
 
 3. If the submitter or the reviewer believe the resolution of the Issue is likely to result in a significant or noteworthy change it will be labeled as `adr-required`.
 
@@ -74,7 +74,7 @@ At the end of reading an issue, you should do one of the following:
 
 5. If it's not clear what the problem or issue is, add a note for the requestor (or occasionally some other user on the thread), and mark it as `info-required`. If a `info-required` issue persists for longer than 2 weeks or so (past a second followup), it's reasonable to `close` the issue using `Status: Stale` and encourage the requester to reopen if they have more details.
 
-6. If the request is infeasable, or complete,use `status: Completed` follow up directly in the issue with the information, and `close` the issue.
+6. If the request is infeasible or complete, use `Status: Completed`, follow up directly in the issue with the information, and `close` the issue.
 
 ## Triage Team
 
@@ -86,7 +86,7 @@ The JSON Schema triage team is a group dedicated towards improving workflow effi
 | :-----------: |
 |               |
 
-<!-- | [github usser] | -->
+<!-- | [github user] | -->
 
 ### Responsibilities
  * Classifying issues and PRs
@@ -100,11 +100,11 @@ The JSON Schema triage team is a group dedicated towards improving workflow effi
 
 All TSC Members are welcome to invite a contributor to the triage team. Triagers will be responsible to handle not just issues but also pull requests. A JSON Schema triager has access to the website repository.
 
-Any existing active contributor in the JSON Schema organization can transition into becoming a JSON Schema triager. They can request this to any TSC member or the Community Managers, either confidentially via a DM in Discourse, or publicly by opening an issue in the community repository. If the TSC decides you are ready to gain the extra privileges, they will invite you to the organisation, and then act as a mentor to you until you are ready to do things entirely on your own. 
+Any existing active contributor in the JSON Schema organization can transition into becoming a JSON Schema triager. They can request this to any TSC member or the Community Managers, either confidentially via a DM in Discourse, or publicly by opening an issue in the community repository. If the TSC decides you are ready to gain the extra privileges, they will invite you to the organization, and then act as a mentor to you until you are ready to do things entirely on your own. 
 
 Members of the Triage Team will get write access in the following repositories: website, conference, tour and landscape.
 
-For every new triager, it would be great to announce them in the ´announcement´ channel in Slack ([example announcement](https://discuss.python.org/t/abhilash-raj-has-been-granted-triage-role-on-github/2089)).
+For every new triager, it would be great to announce them in the `announcement` channel in Slack ([example announcement](https://discuss.python.org/t/abhilash-raj-has-been-granted-triage-role-on-github/2089)).
 
 ## Feedback
 

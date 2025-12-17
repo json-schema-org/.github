@@ -43,11 +43,11 @@ In most repositories, we would like to utilise [Architectural Decision Records (
 
 ADRs are a lightweight way to record and track significant or noteworthy decisions and changes made in a project, including the considerations and people that lead to the decision.
 
-When a new Issue or Pull Request is created, submitters and maintainers should consider if the proposal or proposed change is significant or noteworthy. The submitter may assert this, however deciding if something is significant or noteworthy shall be at the discretion of the maintainer/s at hand. One maintainers preference to consider the change significant or noteworthy is sufficient to outweigh preference against, airing on the side of caution.
+When a new Issue or Pull Request is created, submitters and maintainers should consider if the proposal or proposed change is significant or noteworthy. The submitter may assert this, however deciding if something is significant or noteworthy shall be at the discretion of the maintainer/s at hand. One maintainer's preference to consider the change significant or noteworthy is sufficient to outweigh preference against, erring on the side of caution.
 
 In the situation where an ADR may seem not to have an associated change at the same time (within the same Pull Request), we should consider if any documentation should be updated as a result.
 
-In some situaitions, it may be appropriate to produce an ADR retrospectivly, in order to document recent decisions made before the use of ADRs was established. This will be at the discretion of the maintainers.
+In some situations, it may be appropriate to produce an ADR retrospectively, in order to document recent decisions made before the use of ADRs was established. This will be at the discretion of the maintainers.
 
 ### Issues
 
