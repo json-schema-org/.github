@@ -5,7 +5,7 @@ Our (The JSON Schema Organization) Code of Conduct is a combination of:
 - [The "Contributor Covenant Code of Conduct" 2.1](#contributor-covenant-code-of-conduct)
 - [The OpenJS Foundation Code of Conduct](#the-openjs-foundation-code-of-conduct)
 
-## Applicable sections
+## Applicable Sections
 
 We take the whole of the Contributor Covenant Code of Conduct 2.1 as is.
 
@@ -15,13 +15,13 @@ We subscribe to [the OpenJS Foundation Code of Conduct](https://github.com/openj
 
 # IETF Guidelines for Conduct
 
-While the JSON Schema project is not formally part of the IETF, historically the project was initially published and updated as "personal drafts" through the IETF process. The project members have found the approach and assumptions defined as Guidelines for Conduct to be well informed and a good foundation of behaviour and expectations.
+While the JSON Schema project is not formally part of the IETF, historically the project was initially published and updated as "personal drafts" through the IETF process. The project members have found the approach and assumptions defined as Guidelines for Conduct to be well informed and a good foundation of behavior and expectations.
 
-The IETF defined BCP 54 (Best Current Practice), also assinged RFC 7154.
+The IETF defined BCP 54 (Best Current Practice), also assigned RFC 7154.
 Some extracts are provided which are found to be key principles.
 Please see [BCP 54/RFC 7154 document](https://www.rfc-editor.org/rfc/rfc7154.html) for full details.
 
-BCP 54 provides a set of guidelines for personal interaction in the Internet Engineering Task Force.  The guidelines recognize the diversity of IETF participants, emphasize the value of mutual respect, and stress the broad applicability of our work.
+BCP 54 provides a set of guidelines for personal interaction in the Internet Engineering Task Force. The guidelines recognize the diversity of IETF participants, emphasize the value of mutual respect, and stress the broad applicability of our work.
 
 The work of the IETF relies on cooperation among a diverse range of people with different ideas and communication styles.  The IETF strives, through these guidelines for conduct, to create and maintain an environment in which every person is treated with dignity, decency, and respect.
 
@@ -41,8 +41,7 @@ We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
 size, visible or invisible disability, ethnicity, sex characteristics, gender
 identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, caste, color, religion, or sexual identity
-and orientation.
+nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
 
 We pledge to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy community.
@@ -141,7 +140,7 @@ Violating these terms may lead to a permanent ban.
 ### 4. Permanent Ban
 
 **Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior,  harassment of an
+standards, including sustained inappropriate behavior, harassment of an
 individual, or aggression toward or disparagement of classes of individuals.
 
 **Consequence**: A permanent ban from any sort of public interaction within
@@ -167,7 +166,7 @@ The OpenJS Foundation provides an [escalation path](https://github.com/openjs-fo
 
 > The OpenJS Foundation maintains a [Code of Conduct Panel (CoCP)](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/conduct/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md#code-of-conduct-panel). This is a foundation-wide team established to manage escalation when a reporter believes that a report to a member project or the CPC has not been properly handled. In order to escalate to the CoCP send an email to coc-escalation@lists.openjsf.org.
 
-## Enforcement responsabilities
+## Enforcement Responsibilities
 
 If a Code of Conduct report involves a community leader, that member will not participate in the investigation or any decisions related to that report. If the report involves multiple community leaders, mediation will defer to the [OpenJS Code of Conduct Panel (CoCP)](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/conduct/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md#code-of-conduct-panel).
 
